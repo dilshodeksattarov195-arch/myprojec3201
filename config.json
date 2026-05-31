@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersender",
+        "uuid": 4106883,
+        "checksum": "1km9ad"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
